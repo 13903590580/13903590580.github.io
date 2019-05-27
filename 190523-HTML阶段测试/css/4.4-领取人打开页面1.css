@@ -1,0 +1,98 @@
+.top img{
+	width: 3%;
+	margin: .7rem .1rem .28rem .2rem;
+}
+.top h1{
+	font-size: .36rem;
+	font-weight: bold;
+	text-align: center;
+	margin: -.8rem .45rem .3rem;
+}
+.gift-box{
+	text-align: center;
+	padding: .55rem 0 .33rem;
+}
+.gift-box img{
+	width: 2.55rem;
+	margin-left: .25rem;
+	margin-bottom: .3rem;
+}
+.gift-box p{
+	font-size: .3rem;
+	font-weight: 600;
+	color: #333333;
+	text-align: center;
+	margin-bottom: .2rem;
+}
+.gift-box h2{
+	font-size: .36rem;
+	font-weight: 600;
+	color: #333333;
+	text-align: center;
+}
+.price-box{
+	overflow: hidden;
+	border: 1px solid rgb(224,224,224);
+	border-radius: 5px;
+	margin: 0 .3rem;
+	padding: .2rem .4rem;
+}
+.price-box p{
+	font-size: .28rem;
+	color: #656565;
+	font-weight: 500;
+}
+.left{
+	float: left;
+}
+.left p{
+	margin: .2rem 0;
+}
+.right{
+	float: right;
+}
+.right img{
+	width: .38rem;
+	margin-right: .1rem;
+}
+.right p{
+	margin: .2rem 0;
+	text-align: right;
+}
+.right p:first-child{
+	color: #888888;
+}
+.navbar{
+	padding: .28rem .3rem .31rem;
+	overflow: hidden;
+}
+.navbar p{
+	font-size: .22rem;
+	color: #878787;
+}
+.navbar p:first-child{
+	float: left;
+}
+.navbar p:last-child{
+	float: right;
+}
+.navbar p b{
+	font-weight: normal;
+	color: rgb(247,190,17);
+}
+.bottom{
+	text-align: center;
+	margin: 2.5rem 0 .6rem;
+}
+.btn{
+	display: inline-block;
+	background-color: rgb(9,187,7);
+	font-size: .3rem;
+	color: white;
+	padding: .25rem 2.9rem;
+	border: none;
+	border-radius: 5px;
+}
+
+
+

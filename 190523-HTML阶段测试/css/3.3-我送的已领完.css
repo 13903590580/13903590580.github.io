@@ -1,0 +1,135 @@
+.top img{
+	width: 3%;
+	margin: .7rem .1rem .28rem .2rem;
+}
+.top h1{
+	font-size: .36rem;
+	font-weight: bold;
+	text-align: center;
+	margin: -.8rem .45rem .3rem;
+}
+.gift-box{
+	text-align: center;
+	padding: .55rem .33rem;
+}
+.gift-box img{
+	width: 2.55rem;
+	margin-left: .25rem;
+	margin-bottom: .3rem;
+}
+.gift-box p{
+	font-size: .3rem;
+	font-weight: 600;
+	color: #333333;
+	text-align: center;
+	margin-bottom: .2rem;
+	opacity: 0.5;
+}
+.gift-box h2{
+	font-size: .36rem;
+	font-weight: 600;
+	color: #333333;
+	text-align: center;
+	opacity: 0.5;
+}
+.price-box{
+	overflow: hidden;
+	border: 1px solid rgb(224,224,224);
+	border-radius: 5px;
+	margin: 0 .3rem;
+	padding: .2rem .4rem;
+}
+.price-box p{
+	font-size: .28rem;
+	color: #656565;
+	font-weight: 500;
+}
+.left{
+	float: left;
+}
+.left p{
+	margin: .2rem 0;
+}
+.right{
+	float: right;
+}
+.right p{
+	margin: .2rem 0;
+	text-align: right;
+}
+.right p:first-child{
+	color: #888888;
+}
+.navbar1{
+	padding: .28rem .3rem .31rem;
+	overflow: hidden;
+}
+.navbar1 p{
+	font-size: .22rem;
+	color: #878787;
+}
+.navbar1 p:first-child{
+	float: left;
+}
+.navbar1 p:last-child{
+	float: right;
+}
+.navbar1 p b{
+	font-weight: normal;
+	color: rgb(247,190,17);
+}
+.navbar2{
+	background: #EFEFEF;
+	margin: .31rem 0 .23rem;
+	padding: .08rem .3rem;
+	overflow: hidden;
+}
+.navbar2 p{
+	font-size: .24rem;
+	color: #656565;
+}
+.list-box{
+	display: flex;
+	padding: .23rem .3rem .5rem;
+	font-size: .26rem;
+	line-height: .45rem;
+	color: #656565;
+}
+.list-box li:nth-child(2){
+	margin: .4rem 0;
+}
+.num{
+	flex: 1;
+}
+.bg{
+	flex: 1.5;
+}
+.bg li{
+	width: .45rem;
+	height: .45rem;
+	background: #E0E0E0;
+	border-radius: 5px;
+	position: relative;
+}
+.king{
+	background: url(../img/huangguan.png) no-repeat;
+	background-size: cover;
+	width: .3rem;
+	height: .3rem;
+	position: absolute;
+	top: -.13rem;
+	right: -.08rem;
+}
+.name{
+	flex: 2.5;
+}
+.product{
+	flex: 5.5;
+}
+.price{
+	flex: 2.5;
+}
+
+
+
+

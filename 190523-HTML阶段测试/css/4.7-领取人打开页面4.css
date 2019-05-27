@@ -1,0 +1,72 @@
+.top img{
+	width: 3%;
+	margin: .7rem .1rem .28rem .2rem;
+}
+.top h1{
+	font-size: .36rem;
+	font-weight: bold;
+	text-align: center;
+	margin: -.8rem .45rem .3rem;
+}
+.image{
+	text-align: center;
+}
+.image img{
+	width: 5.62rem;
+	margin: .3rem 0;
+}
+.image p{
+	font-size: .3rem;
+	color: #333333;
+	font-weight: 500;
+}
+.content{
+	margin: .38rem 0 .47rem;
+}
+.navbar{
+	background: #F0F0F0;
+	padding: .14rem .6rem .14rem .7rem;
+	font-size: .24rem;
+	color: #656565;
+	overflow: hidden;
+}
+.item{
+	padding: .38rem .6rem .25rem .7rem;
+	font-size: .28rem;
+	color: #656565;
+	display: flex;
+}
+.item p:nth-child(1){
+	flex: 2.5;
+}
+.item p:nth-child(2){
+	flex: 4.5;
+	text-align: right;
+}
+.bottom{
+	text-align: center;
+	margin-bottom: .57rem;
+}
+.btn{
+	display: block;
+	margin: .3rem .3rem 0rem;
+	padding: .25rem 0rem;
+	background: rgb(9,187,7);
+	color: white;
+	font-size: .36rem;
+	font-weight: 600;
+	border-radius: 5px;
+}
+.serve{
+	font-size: .26rem;
+	color: #576b95;
+}
+
+
+
+
+
+
+
+
+

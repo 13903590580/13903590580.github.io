@@ -1,0 +1,43 @@
+.top h1{
+	font-size: .36rem;
+	font-weight: bold;
+	text-align: center;
+	padding: .61rem .45rem .25rem;
+}
+.top img{
+	width: 100%;
+}
+.love{
+	width: 88%;
+	margin: .61rem .45rem .48rem;
+}
+.king{
+	background: url(../img/huangguan.png) no-repeat 50% 50%;
+	width: 15%;
+	height: 20%;
+	position: absolute;
+	top: 4.5rem;
+	right: .1rem;
+}
+.heart{
+	width: 62%;
+	margin: 0rem 1.41rem .43rem;
+}
+.item{
+	width: 88%;
+	margin: 0rem .45rem .45rem;
+}
+.bottom{
+	margin: 0.19rem 1.68rem 0.8rem;
+}
+.bottom a{
+	font-weight: 600;
+	font-size: 0.28rem;
+	color: #444444;
+}
+.bottom span{
+	margin: 0 0.7rem;
+}
+
+
+

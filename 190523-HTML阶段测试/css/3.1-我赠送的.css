@@ -1,0 +1,100 @@
+.top img{
+	width: 3%;
+	margin: .7rem .1rem .28rem .2rem;
+}
+.top h1{
+	font-size: .36rem;
+	font-weight: bold;
+	text-align: center;
+	margin: -.8rem .45rem .3rem;
+}
+.body{
+	margin: 0 .45rem;
+}
+.gift-price{
+	margin-top: .31rem;
+	margin-bottom: .4rem;
+	padding: .4rem 0 .45rem;
+	text-align: center;
+	border: 1px solid #333333;
+	border-radius: 5px;
+	box-shadow: 0px 2px 3px #888888;
+}
+.gift-price img{
+	width: .65rem;
+	margin-bottom: .31rem;
+}
+.gift-price h4{
+	font-size: .3rem;
+	color: #333333;
+	text-align: center;
+}
+.gift-price h1{
+	font-size: .6rem;
+	color: #333333;
+	text-align: center;
+}
+.gift-price ul{
+	overflow: hidden;
+}
+.gift-price li{
+	float: left;
+}
+.gift-price li:first-child{
+	margin-right: 1rem;
+}
+.gift-price li:last-child{
+	margin-left: 1rem;
+}
+.gift-price p{
+	text-align: center;
+	color: #656565;
+}
+.gift-price p:first-child{
+	font-size: .36rem;
+}
+.gift-price p:last-child{
+	font-size: .24rem;
+}
+.gift-box li{
+	border: 1px solid #BCBCBC;
+	border-radius: 5px;
+	margin-bottom: .22rem;
+	padding: .3rem .3rem .5rem;
+	overflow: hidden;
+}
+.name{
+	float: left;
+	color: #333333;
+}
+.name h2{
+	font-size: .3rem;
+	margin-bottom: .45rem;
+}
+.name h1{
+	font-size: .42rem;
+}
+.people{
+	float: right;
+	color: #333333;
+	font-size: .24rem;
+	text-align: right;
+}
+.people p:first-child{
+	margin-bottom: .58rem;
+}
+.with{
+	color: rgb(247,190,17);
+}
+.without{
+	color: rgb(105,190,73);
+}
+.bottom{
+	text-align: center;
+	padding: .38rem 0;
+}
+.bottom a{
+	color: #576b95;
+}
+
+
